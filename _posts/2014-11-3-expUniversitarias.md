@@ -1,6 +1,19 @@
 ---
 layout: post
 title: Experiencias universitarias
+description: "Opiniones vagas"
+category: universidad
+tags: 
+  - universidad
+  - opinion
+imagefeature: null
+location: "Tijuana, B.C."
+locationgps: null
+mathjax: false
+chart: false
+comments: true
+featured: true
+published: true
 ---
 
 Aconsejarme que critique a mi universidad ya que salga de ella es como pedirme que señale los errores de mi país (gobierno-ciudadanos) ya que no esté presente para dar la cara, es decir, viviendo en el extranjero. 
