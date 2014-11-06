@@ -2,7 +2,7 @@
 layout: post
 title: Experiencias universitarias
 description: "Opiniones vagas"
-category: universidad
+category: 
 tags: 
   - universidad
   - opinion
